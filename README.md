@@ -4,5 +4,5 @@ Currently, I'm playing with **local LLMs** 🤖 and researching machine learning
 ### Current Focus
 - ⚡ **Local inference optimization**
 - 💻 **Integrating LLMs into IDEs and automation scripts**
-- 🛠️ **Developing custom automation pipelines**
+- 🛠️ **Developing ideas with AI Agents**
 - 🔍 **Researching ML options for workflow integration**
